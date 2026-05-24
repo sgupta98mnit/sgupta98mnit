@@ -72,12 +72,21 @@ I am currently building multi-tenant education platform features at EduTrend whi
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sgupta98mnit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sgupta98mnit&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgupta98mnit&theme=tokyonight" alt="GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgupta98mnit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgupta98mnit&theme=tokyonight" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgupta98mnit&theme=tokyonight" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sgupta98mnit&theme=tokyonight" alt="GitHub summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sgupta98mnit&theme=tokyonight&utcOffset=-4" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sgupta98mnit&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
@@ -93,7 +102,7 @@ I am currently building multi-tenant education platform features at EduTrend whi
 <p align="center">
   <a href="https://sumit-gupta.cloud"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://sgupta98mnit.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" /></a>
-  <a href="https://apps.shopify.com/partners/miniorange-inc"><img src="https://img.shields.io/badge/Shopify%20Portfolio-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify portfolio" /></a>
+  <a href="https://apps.shopify.com/partners/miniorange-inc"><img src="https://img.shields.io/badge/Shopify%20Portfolio-7AB55C?style=for-the-badge&logo=shopify" alt="Shopify portfolio" /></a>
 </p>
 
 <p align="center">
